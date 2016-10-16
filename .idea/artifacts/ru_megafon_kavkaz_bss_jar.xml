@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ru.megafon.kavkaz.bss:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ru_megafon_kavkaz_bss_jar</output-path>
+    <root id="archive" name="ru.megafon.kavkaz.bss.jar">
+      <element id="module-output" name="ru.megafon.kavkaz.bss" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../distr/ojdbc6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-net-3.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
